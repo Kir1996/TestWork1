@@ -11,7 +11,7 @@ import React from "react";
 
 const App = () => {
   return (
-   <BrowserRouter basename="/testwork">
+   <BrowserRouter basename="/TestWork1">
    <Routes>
     <Route path="/" element={<Cart />} />
     <Route path="about" element={<Component />} />
